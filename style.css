@@ -85,7 +85,8 @@ nav a:hover{
     background-color: #39d6a0;
 }
 #clock{
-    color: white;
-    font-family:monospace;
-    marign-left: 10px;
+    
+    color: rgb(24, 135, 44);
+    font-family:arial, Helvetica, sans-serif;
+    margin-left: 10px;
 }
