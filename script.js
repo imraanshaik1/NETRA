@@ -1,4 +1,4 @@
-function udateclock() {
+function updateclock() {
     const clock = document.getElementById("clock");
     if(clock) {
         clock.innerHTML = new Date().toLocaleTimeString();
